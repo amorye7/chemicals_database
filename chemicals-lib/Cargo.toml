@@ -1,0 +1,7 @@
+[package]
+name = "chemicals-lib"
+version = "0.1.0"
+authors = ["Lizzie <amorye7@students.rowan.edu>"]
+
+[dependencies]
+database-lib = { git = "https://github.com/Rowan-ECE-Resource-Center/database_lib"}

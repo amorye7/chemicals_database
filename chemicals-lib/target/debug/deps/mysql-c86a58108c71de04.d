@@ -1,0 +1,13 @@
+C:\Users\Lizzie\chemicals_database\chemicals-lib\target\debug\deps\libmysql-c86a58108c71de04.rlib: C:\Users\Lizzie\.cargo\registry\src\github.com-1ecc6299db9ec823\mysql-14.1.1\src/lib.rs C:\Users\Lizzie\.cargo\registry\src\github.com-1ecc6299db9ec823\mysql-14.1.1\src\conn\mod.rs C:\Users\Lizzie\.cargo\registry\src\github.com-1ecc6299db9ec823\mysql-14.1.1\src\conn\opts.rs C:\Users\Lizzie\.cargo\registry\src\github.com-1ecc6299db9ec823\mysql-14.1.1\src\conn\pool.rs C:\Users\Lizzie\.cargo\registry\src\github.com-1ecc6299db9ec823\mysql-14.1.1\src\conn\stmt_cache.rs C:\Users\Lizzie\.cargo\registry\src\github.com-1ecc6299db9ec823\mysql-14.1.1\src\error.rs C:\Users\Lizzie\.cargo\registry\src\github.com-1ecc6299db9ec823\mysql-14.1.1\src\io\mod.rs C:\Users\Lizzie\.cargo\registry\src\github.com-1ecc6299db9ec823\mysql-14.1.1\src\io\tcp.rs C:\Users\Lizzie\.cargo\registry\src\github.com-1ecc6299db9ec823\mysql-14.1.1\src\packet.rs
+
+C:\Users\Lizzie\chemicals_database\chemicals-lib\target\debug\deps\mysql-c86a58108c71de04.d: C:\Users\Lizzie\.cargo\registry\src\github.com-1ecc6299db9ec823\mysql-14.1.1\src/lib.rs C:\Users\Lizzie\.cargo\registry\src\github.com-1ecc6299db9ec823\mysql-14.1.1\src\conn\mod.rs C:\Users\Lizzie\.cargo\registry\src\github.com-1ecc6299db9ec823\mysql-14.1.1\src\conn\opts.rs C:\Users\Lizzie\.cargo\registry\src\github.com-1ecc6299db9ec823\mysql-14.1.1\src\conn\pool.rs C:\Users\Lizzie\.cargo\registry\src\github.com-1ecc6299db9ec823\mysql-14.1.1\src\conn\stmt_cache.rs C:\Users\Lizzie\.cargo\registry\src\github.com-1ecc6299db9ec823\mysql-14.1.1\src\error.rs C:\Users\Lizzie\.cargo\registry\src\github.com-1ecc6299db9ec823\mysql-14.1.1\src\io\mod.rs C:\Users\Lizzie\.cargo\registry\src\github.com-1ecc6299db9ec823\mysql-14.1.1\src\io\tcp.rs C:\Users\Lizzie\.cargo\registry\src\github.com-1ecc6299db9ec823\mysql-14.1.1\src\packet.rs
+
+C:\Users\Lizzie\.cargo\registry\src\github.com-1ecc6299db9ec823\mysql-14.1.1\src/lib.rs:
+C:\Users\Lizzie\.cargo\registry\src\github.com-1ecc6299db9ec823\mysql-14.1.1\src\conn\mod.rs:
+C:\Users\Lizzie\.cargo\registry\src\github.com-1ecc6299db9ec823\mysql-14.1.1\src\conn\opts.rs:
+C:\Users\Lizzie\.cargo\registry\src\github.com-1ecc6299db9ec823\mysql-14.1.1\src\conn\pool.rs:
+C:\Users\Lizzie\.cargo\registry\src\github.com-1ecc6299db9ec823\mysql-14.1.1\src\conn\stmt_cache.rs:
+C:\Users\Lizzie\.cargo\registry\src\github.com-1ecc6299db9ec823\mysql-14.1.1\src\error.rs:
+C:\Users\Lizzie\.cargo\registry\src\github.com-1ecc6299db9ec823\mysql-14.1.1\src\io\mod.rs:
+C:\Users\Lizzie\.cargo\registry\src\github.com-1ecc6299db9ec823\mysql-14.1.1\src\io\tcp.rs:
+C:\Users\Lizzie\.cargo\registry\src\github.com-1ecc6299db9ec823\mysql-14.1.1\src\packet.rs:
